@@ -2,8 +2,8 @@
 
 ## Project Team
 
-Natalia Roszyk (Miela)
-Pola Parol
+Natalia Roszyk (Miela), 
+Pola Parol, 
 Irena Zimovska
 
 ## Project Overview
