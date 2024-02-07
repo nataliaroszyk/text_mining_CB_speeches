@@ -31,7 +31,8 @@ Text Clustering: Utilized MiniBatchKMeans to cluster speeches into thematic grou
 
 Sentiment Analysis: Employed TextBlob to analyze the sentiment of the speeches, identifying patterns and trends in sentiment over time and for a specific author.  
 
-Authorship Analysis: Analyzed writing styles and thematic focus of different authors through TF-IDF Vectorization.
+Authorship Analysis: Analyzed writing styles and thematic focus of different authors through TF-IDF Vectorization.  
+
 Impact Analysis: Explored the potential impact of speech sentiments on the S&P 500 index, although findings were inconclusive due to the complex interplay of market factors.  
 
 ### Key Findings
