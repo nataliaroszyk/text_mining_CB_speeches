@@ -22,10 +22,15 @@ Dataset Source: Central Bank Speeches on Kaggle https://www.kaggle.com/datasets/
 ### Methodology
 
 Data Loading and Preprocessing: Libraries used include pandas, nltk, matplotlib, seaborn, sklearn, and more. Data cleaning involved handling missing values, tokenization, and lemmatization.
+
 Exploratory Data Analysis (EDA): Initial exploration involved analyzing speech lengths, distributions, and basic textual content.
+
 Text Mining Techniques: Application of TF-IDF Vectorization, word clouds, and NLP techniques to analyze and visualize the content and themes of the speeches. Sentiment analysis was conducted to assess the tone and sentiment of the speeches over time and for a specific author.
+
 Text Clustering: Utilized MiniBatchKMeans to cluster speeches into thematic groups, revealing predominant topics such as monetary policy, financial risk, and regulatory supervision.
+
 Sentiment Analysis: Employed TextBlob to analyze the sentiment of the speeches, identifying patterns and trends in sentiment over time and for a specific author.
+
 Authorship Analysis: Analyzed writing styles and thematic focus of different authors through TF-IDF Vectorization.
 Impact Analysis: Explored the potential impact of speech sentiments on the S&P 500 index, although findings were inconclusive due to the complex interplay of market factors.
 
